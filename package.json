@@ -1,0 +1,19 @@
+{
+  "name": "dd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+	"start": "node index.js",
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "node-fetch": "^2.6.7"
+  },
+  "engines": {
+    "node": "v14.17.5"
+  }
+}
